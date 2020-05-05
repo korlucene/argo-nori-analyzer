@@ -1,0 +1,12 @@
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanTokenizer.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanTokenizerFactory.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanReadingFormFilter.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanNumberFilter.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestMoprhDisplay.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanReadingFormFilterFactory.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/dict/UserDictionaryTest.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanNumberFilterFactory.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/StringMockResourceLoader.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanPartOfSpeechStopFilterFactory.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/TestKoreanAnalyzer.java
+/Users/isumyeong/Documents/eclipsWorks/morph-projects/argo-nori-analyzer/src/test/java/org/apache/lucene/analysis/ko/util/UnknownDictionaryTest.java
