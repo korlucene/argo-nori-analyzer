@@ -1,11 +1,9 @@
 package org.apache.lucene.analysis.ko;
 
-import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.apache.lucene.analysis.BaseTokenStreamTestCase;
 import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.ko.KoreanTokenizer.DecompoundMode;
@@ -21,7 +19,7 @@ import junit.framework.TestCase;
 public class TestMoprhDisplay extends TestCase {
 
 	public void testDisplay() throws Exception {
-		String text = "국립과학원";
+		String text = "과학원";
 		
 		Set<POS.Tag> stopTags = new HashSet<POS.Tag>();
 		CharArraySet stopWords = new CharArraySet(16, true);
