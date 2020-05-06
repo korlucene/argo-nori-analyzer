@@ -4,7 +4,6 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.ko.KoreanTokenizer.DecompoundMode;
 import org.apache.lucene.analysis.ko.dict.UserDictionary;
@@ -19,10 +18,9 @@ import junit.framework.TestCase;
 public class TestMoprhDisplay extends TestCase {
 
 	public void testDisplay() throws Exception {
-		String text = "과학원";
+		String text = "국립한의학연구원";
 		
 		Set<POS.Tag> stopTags = new HashSet<POS.Tag>();
-		CharArraySet stopWords = new CharArraySet(16, true);
 	
 		InputStreamReader streamReader = new InputStreamReader(TestMoprhDisplay.class.getResourceAsStream("userdict.txt"));
 		UserDictionary userDic = UserDictionary.open(streamReader);

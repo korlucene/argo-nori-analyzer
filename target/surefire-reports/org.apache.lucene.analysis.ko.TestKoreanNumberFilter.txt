@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.lucene.analysis.ko.TestKoreanNumberFilter
--------------------------------------------------------------------------------
-Tests run: 20, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 3.359 sec
